@@ -1,0 +1,29 @@
+==========
+Question 0
+==========
+What is your name : cfir bitan
+What is the current date : 18.3.18
+
+==========
+Question 1
+==========
+see index.html 
+
+==========
+Question 2
+==========
+see style.css
+
+==========
+Question 3
+==========
+see app.html and app.js
+
+==========
+Question 4
+==========
+see app.html and app.js
+
+
+thanks
+cfir

@@ -1,0 +1,52 @@
+    	body{
+			margin: 0;
+			padding: 0;
+			width: 100%;
+    	}
+
+    	#FormBox {
+    		width: 600px;
+    		box-shadow: 0 0 0 1px #808080 inset;
+    		padding-top: 30px;
+    	}
+
+        .mid {
+            margin: 0 auto;
+        }
+
+    	.InputRow {
+			margin: 20px;
+    	}
+
+    	#FormBox .InputRow:first-child {
+			margin-top: 0;
+    	}
+
+    	#FormBox .InputRow:last-child {
+			margin-bottom: 0;
+    	}    	    
+
+    	input[type="text"] {
+    		width: 100%;
+    		border:1px solid black;
+    		height: 20px;
+    	}
+
+    	button{
+    		margin-bottom: 20px;
+		    background-color: #00bfff;
+		    color: white;
+		    border: 1px solid white;
+		    box-shadow: none;
+		    padding: 5px 20px;
+		    font-size: 14px;    		
+    	}
+
+        ul li {
+            list-style: none;
+        }
+    	@media only screen and (max-width: 600px) {
+    		#FormBox {
+    			width: 100%;
+    		}
+		}
